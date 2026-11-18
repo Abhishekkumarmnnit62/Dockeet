@@ -1,0 +1,43 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Chroma Database
+chroma_db/
+
+# VS Code
+.vscode/
+
+# Testing
+.pytest_cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite database files
+chunk_store.db
+metrics.db
+*.db
+*.sqlite
+*.sqlite3
